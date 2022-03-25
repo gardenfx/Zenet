@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af7e7d8c-2aab-484a-934a-615c38c0fcb5" name="Changes" comment="Add rest-framework&#10;Update database data" />
+    <list default="true" id="af7e7d8c-2aab-484a-934a-615c38c0fcb5" name="Changes" comment="Add rest-framework&#10;Update database data">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +126,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="FrontEnd-AdminPanel" />
                       </list>
                     </value>
                   </entry>
