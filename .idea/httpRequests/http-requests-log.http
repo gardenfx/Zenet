@@ -1,0 +1,17 @@
+GET http://localhost:8000/auth-api/item?id=99
+Accept: application/json
+
+<> 2022-03-25T054631.400.txt
+
+###
+
+GET http://localhost:8000/api/item?id=99
+Accept: application/json
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+
